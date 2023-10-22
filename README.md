@@ -1,2 +1,2 @@
 # MernTask3_ReactProjects
-https://pushpak1712.github.io/MERN_React_Tasks/
+https://adityamethe03.github.io/MernTask3_ReactProjects/
